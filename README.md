@@ -3,5 +3,5 @@ Testing WoW death rolling statistics. How the game is played is described in thi
 
 Some simple code that will:
 
-1. Use brute force to approximate what the odds are when a game is played start at a given number.
+1. Use brute force to approximate what the odds are when a game is played starting at a given number.
 1. Use the exact formula to efficiently calculate the same odds.
